@@ -1,8 +1,4 @@
-#!/usr/bin/env python3
-
-print(no_c("Holberton School"))
-print(no_c("Chicago"))
-print(no_c("C is fun!"))
+#!/usr/bin/python3
 
 def no_c(my_string):
     new_string = ""
